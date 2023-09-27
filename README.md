@@ -1,2 +1,1 @@
-# .github
-shared file and templates repo
+Shared file and templates repo for CederGroupHub
